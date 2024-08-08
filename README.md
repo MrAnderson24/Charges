@@ -20,7 +20,7 @@
     - Intentionally or recklessly causes physical injury to another person.
 
 ---
-Menacing
+**Menacing**
 ---
 4. Menacing in the First Degree
     - Section 120.13
@@ -31,7 +31,7 @@ Menacing
     - Intentionally places or attempts to place another person in fear of imminent serious physical injury.
 
 ---
-Weapons
+**Weapons**
 ---
 6. Criminal Possession of a Weapon in the First Degree
     - Section 265.04
@@ -60,7 +60,7 @@ Weapons
     - Uses a firearm to commit a felony or in a manner that creates a risk of physical injury.
 
 ---
-Robbery
+**Robbery**
 ---
 12. Robbery in the First Degree
     - Section 160.15
@@ -74,7 +74,7 @@ Robbery
     - Commits robbery without the use of a deadly weapon or physical injury.
 
 ---
-Murder/Manslaughter/Homicide
+**Murder/Manslaughter/Homicide**
 ---
 15. Homicide in the First Degree
     - Section 125.27
@@ -100,7 +100,7 @@ Murder/Manslaughter/Homicide
     - Causes the death of another person due to criminal negligence.
 
 ---
-Kidnapping/Imprisonment/Hostage
+**Kidnapping/Imprisonment/Hostage**
 ---
 20. Kidnapping in the First Degree
     - Section 135.25
@@ -115,14 +115,14 @@ Kidnapping/Imprisonment/Hostage
     - Unlawfully restrains another person without causing physical injury.
 
 ---
-Threats
+**Threats**
 ---
 23. Criminal Threats
     - Section 120.16
     - Threatens to commit a violent crime against another person with the intent to cause fear of imminent serious physical injury.
 
 ---
-Stalking
+**Stalking**
 ---
 24. Stalking in the First Degree
     - Section 120.60
@@ -137,7 +137,7 @@ Section 120.50
     - Engages in a course of conduct that causes fear of physical harm or emotional distress.
 
 ---
-Criminal Mischief
+**Criminal Mischief**
 ---
 27.  Criminal Mischief in the First Degree
     - Section 145.12
@@ -152,7 +152,7 @@ Criminal Mischief
     - Intentionally damages property without the use of dangerous means or causing substantial inconvenience.
 
 ---
-Larceny/Stealing/Burglary
+**Larceny/Stealing/Burglary**
 ---
 30. Grand Larceny in the First Degree
     - Section 155.42
@@ -206,7 +206,7 @@ Larceny/Stealing/Burglary
     - Enters a building unlawfully with the intent to commit a crime but without causing physical injury.
 
 ---
-Trespassing
+**Trespassing**
 ---
 42. Criminal Trespass in the First Degree
     - Section 140.17
@@ -221,7 +221,7 @@ Trespassing
     - Unlawfully enters or remains in a building or land that is clearly posted or otherwise restricted.
 
 ---
-Firearms Sale - Drug Possession - Drug Sale
+**Firearms Sale - Drug Possession - Drug Sale**
 ---
 45. Criminal Sale of a Firearm in the First Degree
     - Section 265.13
@@ -266,7 +266,7 @@ Firearms Sale - Drug Possession - Drug Sale
     - Sells or distributes a controlled substance in amounts that do not meet the criteria for the Second Degree.
 
 ---
-Aiding/Assisting Criminals
+**Aiding/Assisting Criminals**
 ---
 55. Criminal Facilitation in the First Degree
     - Section 480.10
@@ -281,7 +281,7 @@ Aiding/Assisting Criminals
     - Provides assistance to another person committing a crime, with knowledge or belief that such assistance is likely to facilitate the crime.
 
 ---
-Reckless Endangerment
+**Reckless Endangerment**
 ---
 
 58. Reckless Endangerment in the First Degree
@@ -293,7 +293,7 @@ Reckless Endangerment
     - Engages in conduct that creates a substantial risk of serious physical injury.
 
 ---
-Tampering
+**Tampering**
 ---
 60. Criminal Tampering in the First Degree
     - Section 145.20
@@ -308,7 +308,7 @@ Tampering
     - Intentionally tampers with property in a manner that could cause harm or substantial inconvenience.
 
 ---
-Escape
+**Escape**
 ---
 63.   Escape in the First Degree
     - Section 205.15
@@ -323,7 +323,7 @@ Escape
     - Escapes from a detention facility or custody but with minimal force or threats.
 
 ---
-Disorderly Conduct - Harrasment
+**Disorderly Conduct - Harrasment**
 ---
 66. Disorderly Conduct
     - Section 240.20
@@ -338,7 +338,7 @@ Disorderly Conduct - Harrasment
     - Engages in conduct with intent to harass, annoy, or alarm another person without physical injury.
 
 ---
-Obstructing Govermental Administration
+**Obstructing Govermental Administration**
 ---
 69. Obstructing Governmental Administration in the First Degree
     - Section 195.05
@@ -353,7 +353,7 @@ Obstructing Govermental Administration
     - Resists or interferes with governmental administration in a minimal manner.
 
 ---
-Falsely Reporting Incident/Crime - False Statement
+**Falsely Reporting Incident/Crime - False Statement**
 ---
 72. Falsely Reporting an Incident in the Third Degree
     - Section 240.50
@@ -373,7 +373,7 @@ Falsely Reporting Incident/Crime - False Statement
     - Intentionally making a false statement under oath.
 
 ---
-Possession Charges
+**Possession Charges**
 ---
 76. Unlawful Possession of a Radio Device
     - Section 233.00
@@ -389,7 +389,7 @@ Possession Charges
     - Possessing forged documents with the intent to use them fraudulently, without significant harm.
 
 ---
-Impersonating
+**Impersonating**
 ---
 79. Criminal Impersonation in the First Degree
     - Section 190.27
@@ -408,7 +408,7 @@ Impersonating
     - Impersonates another person with intent to deceive, involving minimal harm.
 
 ---
-Assembly/Riot
+**Assembly/Riot**
 ---
 83.  Unlawful Assembly
 Section 240.10
@@ -420,7 +420,7 @@ Section 240.10
 
 ---
 # Section 2: Gang Related Crimes
-Organized Crime and Racketeering
+**Organized Crime and Racketeering**
 ---
 85. Enterprise Corruption
     - Section 460.20
@@ -444,7 +444,7 @@ Organized Crime and Racketeering
     - Plotting or planning to engage in racketeering activities as part of an organized crime group.
 
 ---
-Corruption and Bribery
+**Corruption and Bribery**
 ---
 90. Bribery in the First Degree
     - Section 200.04
@@ -468,7 +468,7 @@ Corruption and Bribery
     - Filing false documents with the intent to deceive government agencies, often involving corruption.
 
 ---
-Money Laundering
+**Money Laundering**
 ---
 95. Money Laundering in the First Degree
     - Section 470.10
@@ -487,7 +487,7 @@ Money Laundering
     - Engaging in money laundering activities with minimal financial transactions.
 
 ---
-Drug-Related Offenses
+**Drug-Related Offenses**
 ---
 99. Criminal Possession of a Controlled Substance in the Third Degree (with intent to distribute)
     - Section 220.16
