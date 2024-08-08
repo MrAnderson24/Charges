@@ -2,8 +2,8 @@
 - Notes:
     - This does not include all charges, but a lot of the common ones.
     - Written and published by Mr. Anderson
----
 
+---
 ## Section 1: Violent Crimes
 **Assault**
 ---
@@ -44,7 +44,9 @@ Weapons
 8. Criminal Possession of a Weapon in the Third Degree
     - Section 265.02
     - Possesses a weapon, including a firearm, with intent to use it unlawfully, or in a manner that creates a substantial risk of harm.
+
 ---
+
 9. Criminal Use of a Firearm in the First Degree
     - Section 265.09
     - Uses a firearm to commit a felony or in a manner that creates a substantial risk of injury.
@@ -81,7 +83,9 @@ Murder/Manslaughter/Homicide
 16. Homicide in the Second Degree
     - Section 125.25
     - Intentionally causes the death of another person or causes death under extreme emotional disturbance.
+
 ---
+
 17. Manslaughter in the First Degree
     - Section 125.20
     - Causes the death of another person under circumstances that do not constitute murder but involve extreme recklessness or emotional disturbance.
