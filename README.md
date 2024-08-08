@@ -1,10 +1,8 @@
 # Felony/Regular Charges
 - Notes:
     - This does not include all charges, but a lot of the common ones.
-    - Written and published by Mr. Anderson/Agent_A24
+    - Written and published by Mr. Anderson
 ---
-
-
 
 ## Section 1: Violent Crimes
 **Assault**
@@ -21,7 +19,6 @@
     - Section 120.00
     - Intentionally or recklessly causes physical injury to another person.
 
-.
 ---
 Menacing
 ---
@@ -33,7 +30,6 @@ Menacing
     - Section 120.14
     - Intentionally places or attempts to place another person in fear of imminent serious physical injury.
 
-.
 ---
 Weapons
 ---
@@ -61,7 +57,6 @@ Weapons
     - Section 265.07
     - Uses a firearm to commit a felony or in a manner that creates a risk of physical injury.
 
-.
 ---
 Robbery
 ---
@@ -76,7 +71,6 @@ Robbery
     - Section 160.05
     - Commits robbery without the use of a deadly weapon or physical injury.
 
-.
 ---
 Murder/Manslaughter/Homicide
 ---
@@ -100,7 +94,6 @@ Murder/Manslaughter/Homicide
     - Section 125.10
     - Causes the death of another person due to criminal negligence.
 
-.
 ---
 Kidnapping/Imprisonment/Hostage
 ---
@@ -116,7 +109,6 @@ Kidnapping/Imprisonment/Hostage
     - Section 135.05
     - Unlawfully restrains another person without causing physical injury.
 
-.
 ---
 Threats
 ---
@@ -124,7 +116,6 @@ Threats
     - Section 120.16
     - Threatens to commit a violent crime against another person with the intent to cause fear of imminent serious physical injury.
 
-.
 ---
 Stalking
 ---
@@ -140,7 +131,6 @@ Stalking
 Section 120.50
     - Engages in a course of conduct that causes fear of physical harm or emotional distress.
 
-.
 ---
 Criminal Mischief
 ---
@@ -156,7 +146,6 @@ Criminal Mischief
     - Section 145.05
     - Intentionally damages property without the use of dangerous means or causing substantial inconvenience.
 
-.
 ---
 Larceny/Stealing/Burglary
 ---
@@ -199,7 +188,6 @@ Larceny/Stealing/Burglary
     - Possesses stolen property valued at more than $1,000.
 
 ---
-
 39. Burglary in the First Degree
     - Section 140.30
     - Enters a building unlawfully with the intent to commit a violent crime or while armed with a dangerous instrument.
@@ -212,7 +200,6 @@ Larceny/Stealing/Burglary
     - Section 140.20
     - Enters a building unlawfully with the intent to commit a crime but without causing physical injury.
 
-.
 ---
 Trespassing
 ---
@@ -228,11 +215,9 @@ Trespassing
     - Section 140.10
     - Unlawfully enters or remains in a building or land that is clearly posted or otherwise restricted.
 
-.
 ---
 Firearms Sale - Drug Possession - Drug Sale
 ---
-
 45. Criminal Sale of a Firearm in the First Degree
     - Section 265.13
     - Sells or exchanges a firearm with intent to use it unlawfully.
@@ -246,7 +231,6 @@ Firearms Sale - Drug Possession - Drug Sale
     - Sells or exchanges a firearm, with knowledge or reason to believe it will be used unlawfully.
 
 ---
-
 48. Criminal Possession of a Controlled Substance in the First Degree
     - Section 220.21
     - Possesses a controlled substance with the intent to sell or distribute, or in a quantity that indicates intent to sell.
@@ -264,7 +248,6 @@ Firearms Sale - Drug Possession - Drug Sale
     - Possesses a controlled substance without intent to sell, but in a significant amount.
 
 ---
-
 52. Criminal Sale of a Controlled Substance in the First Degree
     - Section 220.43
     - Sells or distributes a controlled substance in amounts that suggest intent to sell or distribute.
@@ -277,11 +260,9 @@ Firearms Sale - Drug Possession - Drug Sale
     - Section 220.39
     - Sells or distributes a controlled substance in amounts that do not meet the criteria for the Second Degree.
 
-.
 ---
 Aiding/Assisting Criminals
 ---
-
 55. Criminal Facilitation in the First Degree
     - Section 480.10
     - Provides substantial assistance to another person committing a crime, knowing that their actions are likely to facilitate the crime.
@@ -294,7 +275,6 @@ Aiding/Assisting Criminals
     - Section 480.10
     - Provides assistance to another person committing a crime, with knowledge or belief that such assistance is likely to facilitate the crime.
 
-.
 ---
 Reckless Endangerment
 ---
@@ -307,7 +287,6 @@ Reckless Endangerment
     - Section 120.20
     - Engages in conduct that creates a substantial risk of serious physical injury.
 
-.
 ---
 Tampering
 ---
@@ -324,7 +303,6 @@ Tampering
     - Section 145.05
     - Intentionally tampers with property in a manner that could cause harm or substantial inconvenience.
 
-.
 ---
 Escape
 ---
@@ -340,7 +318,6 @@ Escape
     - Section 205.05
     - Escapes from a detention facility or custody but with minimal force or threats.
 
-.
 ---
 Disorderly Conduct - Harrasment
 ---
@@ -356,7 +333,6 @@ Disorderly Conduct - Harrasment
     - Section 240.26
     - Engages in conduct with intent to harass, annoy, or alarm another person without physical injury.
 
-.
 ---
 Obstructing Govermental Administration
 ---
@@ -372,13 +348,9 @@ Obstructing Govermental Administration
     - Section 195.00
     - Resists or interferes with governmental administration in a minimal manner.
 
-
-.
 ---
-# Section 2: Non-Violent Crimes
 Falsely Reporting Incident/Crime - False Statement
 ---
-
 72. Falsely Reporting an Incident in the Third Degree
     - Section 240.50
     - Falsely reporting an emergency situation to law enforcement.
@@ -429,7 +401,6 @@ Impersonating
     - Section 190.23
     - Impersonates another person with intent to deceive, involving minimal harm.
 
-.
 ---
 Assembly/Riot
 ---
@@ -441,10 +412,8 @@ Section 240.10
     - Section 240.30
     - Failing to leave a place when law enforcement orders the dispersal of an unlawful assembly or gathering.
 
-
-.
 ---
-# Section 3: Gang Related Crimes
+# Section 2: Gang Related Crimes
 Organized Crime and Racketeering
 ---
 85. Enterprise Corruption
@@ -468,7 +437,6 @@ Organized Crime and Racketeering
     - Federal RICO Act
     - Plotting or planning to engage in racketeering activities as part of an organized crime group.
 
-.
 ---
 Corruption and Bribery
 ---
