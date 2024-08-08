@@ -4,7 +4,7 @@
     - Written and published by Mr. Anderson
 
 ---
-## Section 1: Violent Crimes
+## Section 1: Felony - Regular Charges
 **Assault**
 ---
 1. Assault in the First Degree
@@ -93,6 +93,7 @@ Murder/Manslaughter/Homicide
 18. Manslaughter in the Second Degree
     - Section 125.15
     - Recklessly causes the death of another person.
+
 ---
 19. Criminally Negligent Homicide
     - Section 125.10
@@ -294,7 +295,6 @@ Reckless Endangerment
 ---
 Tampering
 ---
-
 60. Criminal Tampering in the First Degree
     - Section 145.20
     - Intentionally tampers with property with the intent to cause substantial inconvenience or risk of harm.
@@ -366,6 +366,7 @@ Falsely Reporting Incident/Crime - False Statement
 74. Falsely Reporting an Incident in the First Degree
     - Section 240.60
     - Falsely reporting an incident that causes a serious public emergency.
+
 ---
 75. Making a False Statement
     - Section 210.45
@@ -377,6 +378,7 @@ Possession Charges
 76. Unlawful Possession of a Radio Device
     - Section 233.00
     - Possessing a radio device used for unlawful purposes or without a license.
+
 ---
 77. Criminal Possession of a Forged Instrument in the First Degree
     - Section 170.30
@@ -464,6 +466,7 @@ Corruption and Bribery
 94. Offering a False Instrument for Filing in the First Degree
     - Section 175.35
     - Filing false documents with the intent to deceive government agencies, often involving corruption.
+
 ---
 Money Laundering
 ---
